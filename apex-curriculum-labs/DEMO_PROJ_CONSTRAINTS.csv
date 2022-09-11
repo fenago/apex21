@@ -1,0 +1,6 @@
+"CONSTRAINT_NAME","MESSAGE"
+"DEMO_PROJ_STATUS_PK","Status Code must be unique."
+"DEMO_PROJ_TEAM_MEMBERS_UK","Username must be unique."
+"DEMO_PROJECTS_UK","Project Name must be unique."
+"DEMO_PROJ_TASKS_UK","Task Name must be unique within the same project."
+"DEMO_PROJ_TASK_LINK_LTY_CH","Link Type must be URL or Application."

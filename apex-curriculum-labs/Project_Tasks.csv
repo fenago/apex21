@@ -1,0 +1,74 @@
+PROJECT,TASK_NAME,START_DATE,END_DATE,STATUS,ASSIGNED_TO,COST,BUDGET
+ACME Web Configuration,Identify server requirements,05/17/2019,05/18/2019,Closed,John Watson,100,200
+Maintain Support Systems,HR software upgrades,05/17/2019,07/14/2019,On-Hold,Pam King,8000,7000
+Maintain Support Systems,Apply Billing System updates,05/17/2019,07/18/2019,On-Hold,Russ Sanders,9500,7000
+ACME Web Configuration,Determine Web listener configuration(s),05/18/2019,05/18/2019,Closed,James Cassidy,100,100
+ACME Web Configuration,Specify security authentication scheme(s),05/19/2019,05/21/2019,Closed,John Watson,200,300
+ACME Web Configuration,"Select servers for Development, Test, Production",05/19/2019,05/24/2019,Closed,James Cassidy,200,600
+Email Integration,Complete plan,05/24/2019,07/01/19,Closed,Mark Nile,3000,1500
+ACME Web Configuration,Configure Workspace provisioning,05/26/2019,05/26/2019,Closed,John Watson,200,100
+ACME Web Configuration,Create pilot workspace,05/26/2019,05/26/2019,Closed,John Watson,100,100
+ACME Web Configuration,Run installation,05/27/2019,05/27/2019,Closed,James Cassidy,100,100
+Bug Tracker,Implement bug tracking software,05/31/2019,05/31/2019,Closed,Myra Sutcliff,100,100
+Bug Tracker,Review automated testing tools,06/01/19,07/02/19,On-Hold,Myra Sutcliff,2750,1500
+Train Developers,Publish development standards,06/13/2019,08/21/2019,On-Hold,John Watson,1000,2000
+Train Developers,Publish links to self-study courses,06/16/2019,06/16/2019,Closed,John Watson,100,100
+Train Developers,Create training workspace,06/16/2019,06/23/2019,Closed,James Cassidy,500,700
+Load Packaged Applications,Identify point solutions required,06/18/2019,06/20/2019,Closed,John Watson,200,300
+Software Projects Tracking,Conduct project kickoff meeting,06/20/2019,06/20/2019,Closed,Pam King,100,100
+Client Server Conversion,Identify pilot client server applications,06/20/2019,06/21/2019,Closed,Scott Spencer,200,200
+Public Website,Determine host server,06/21/2019,06/22/2019,Closed,Tiger Scott,200,200
+Load Packaged Applications,Install in development,06/22/2019,06/22/2019,Closed,John Watson,100,100
+Public Website,Check software licenses,06/22/2019,06/22/2019,Closed,Tom Suess,100,100
+Client Server Conversion,Migrate pilot client server to web,06/22/2019,07/07/19,Closed,Scott Spencer,400,500
+Load Packaged Applications,Customize solutions,06/23/2019,09/18/2019,Open,John Watson,1500,4000
+Software Projects Tracking,"Enter base data (Projects, Milestones, etc.)",06/25/2019,06/26/2019,Closed,Tom Suess,200,200
+Migrate Desktop Application,Identify pilot applications,06/25/2019,07/02/19,Closed,Mark Nile,300,500
+Public Website,"Purchase additional software licenses, if needed",06/25/2019,07/20/2019,On-Hold,Al Bines,300,1000
+Email Integration,Check software licenses,06/27/2019,06/30/2019,Closed,Mark Nile,200,200
+Software Projects Tracking,Load current tasks and enhancements,06/27/2019,07/03/19,Closed,Tom Suess,400,500
+Email Integration,Get RFPs for new server,06/30/2019,07/21/2019,Open,Mark Nile,2000,1000
+Software Projects Tracking,Customize Software Projects software,07/02/19,08/07/19,Open,Tom Suess,600,1000
+Convert Spreadsheet,Collect mission-critical spreadsheets,07/02/19,09/03/19,Open,Pam King,2500,4000
+Convert Spreadsheet,Lock spreadsheets,07/02/19,12/16/2019,Open,Pam King,1000,800
+Convert Spreadsheet,Create web applications from spreadsheets,07/02/19,12/16/2019,Open,Pam King,10000,6000
+Bug Tracker,Document quality assurance procedures,07/03/19,08/06/19,Open,Myra Sutcliff,3500,4000
+Convert Spreadsheet,Send links to previous spreadsheet owners,07/03/19,12/18/2019,Open,Pam King,1000,1500
+Migrate Desktop Application,Migrate pilot applications to web,07/04/19,07/09/19,Closed,Mark Nile,500,500
+Employee Satisfaction Survey,Complete questionnaire,07/05/19,07/19/2019,On-Hold,Irene Jones,1200,800
+Discussion Forum,Identify owners,07/06/19,07/09/19,Closed,Hank Davis,250,300
+Maintain Support Systems,Arrange for vacation coverage,07/07/19,07/30/2019,Open,Al Bines,300,500
+Client Server Conversion,Post-migration review,07/08/19,07/08/19,Closed,Pam King,100,100
+Client Server Conversion,Plan migration schedule,07/09/19,07/09/19,Closed,Pam King,100,100
+Migrate Desktop Application,Post-migration review,07/11/19,07/11/19,Closed,Mark Nile,100,100
+Migrate Desktop Application,Plan migration schedule,07/13/2019,07/13/2019,Closed,Mark Nile,600,200
+Client Server Conversion,Migrate client server apps,07/13/2019,11/21/2019,Open,Pam King,300,12000
+Discussion Forum,Install web application on production server,07/14/2019,07/14/2019,Closed,Hank Davis,100,100
+Load Packaged Applications,Implement in Production,07/14/2019,09/22/2019,Open,John Watson,200,1500
+Discussion Forum,Monitor participation,07/15/2019,07/23/2019,Open,Hank Davis,450,500
+Migrate Desktop Application,Migrate Desktop Applications,07/15/2019,09/08/19,Open,Mark Nile,1000,8000
+Migrate Desktop Application,End-user Training,07/15/2019,09/10/19,Open,John Watson,0,2000
+Maintain Support Systems,Investigate new Virus Protection software,07/16/2019,07/31/2019,Open,Pam King,1700,1500
+Migrate Desktop Application,User acceptance testing,07/19/2019,09/18/2019,Open,Mark Nile,1500,6000
+Migrate from Legacy Server,Obtain credentials,07/21/2019,07/24/2019,Pending,James Cassidy,0,500
+Migrate from Legacy Server,Create new database connection,07/26/2019,07/26/2019,Pending,Scott Spencer,0,100
+Migrate from Legacy Server,Identify integration points,07/26/2019,08/15/2019,Pending,Mark Nile,0,2000
+Employee Satisfaction Survey,Review with legal,07/27/2019,08/02/19,On-Hold,Irene Jones,200,400
+Public Website,Develop web pages,07/28/2019,09/03/19,On-Hold,Tiger Scott,800,2000
+Load Packaged Applications,Train developers / users,07/28/2019,10/11/19,Pending,John Watson,0,8000
+Email Integration,Purchase backup server,07/30/2019,08/25/2019,Pending,Mark Nile,0,3000
+Employee Satisfaction Survey,Plan rollout schedule,08/03/19,08/11/19,On-Hold,Irene Jones,0,750
+Migrate from Legacy Server,Map data usage,08/07/19,09/20/2019,Pending,Mark Nile,0,8000
+Bug Tracker,Train developers on tracking bugs,08/07/19,09/27/2019,On-Hold,Myra Sutcliff,0,2000
+Bug Tracker,Measure effectiveness of improved QA,08/19/2019,09/19/2019,Pending,Myra Sutcliff,0,1500
+Migrate from Legacy Server,Decommission SQL Server,08/19/2019,11/17/2019,Pending,Al Bines,0,500
+Client Server Conversion,Test migrated applications,08/19/2019,12/11/19,Pending,Russ Saunders,0,6000
+Migrate from Legacy Server,Convert processes,08/20/2019,10/18/2019,Pending,Pam King,0,3000
+Migrate from Legacy Server,Implement integration using Oracle,08/21/2019,09/21/2019,Pending,Mark Nile,0,1500
+Client Server Conversion,User acceptance testing,09/04/19,12/06/19,Pending,Russ Saunders,0,2500
+Public Website,Plan rollout schedule,09/05/19,09/05/19,On-Hold,Tom Suess,0,100
+Migrate from Legacy Server,Migrate table structures,09/12/19,10/06/19,Pending,John Watson,0,2500
+Migrate from Legacy Server,Import data,09/13/2019,10/09/19,Pending,John Watson,0,1000
+Migrate from Legacy Server,Notify users,09/23/2019,09/26/2019,Pending,Mark Nile,0,200
+Client Server Conversion,End-user Training,10/06/19,12/18/2019,Pending,Myra Sutcliff,0,2500
+Client Server Conversion,Rollout migrated clent server apps on web,12/09/19,12/20/2019,Pending,Pam King,0,500

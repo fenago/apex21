@@ -1,0 +1,6 @@
+"ID","PROJECT_LEAD","NAME","DESCRIPTION","STATUS_CD","COMPLETED_DATE","CREATED","CREATED_BY","UPDATED","UPDATED_BY"
+"4","13","Develop Partner Portal POC","Develop a proof of concept that partners can use to work more collaboratively with us.","IN-PROGRESS","","11-DEC-19 05.45.15.036410 AM","LOWCODE","11-DEC-19 05.45.15.036468 AM","LOWCODE"
+"5","1","Develop Production Partner Portal","Develop the production app that partners can use to work more collaboratively with us.","ASSIGNED","","11-DEC-19 05.45.15.039974 AM","LOWCODE","11-DEC-19 05.45.15.040028 AM","LOWCODE"
+"1","13","Configure Web Development Tool Environment","Determine the hardware and software required to develop with Web development tool.","COMPLETED","11/14/2019","11-DEC-19 05.45.15.010550 AM","LOWCODE","11-DEC-19 05.45.15.010617 AM","LOWCODE"
+"2","1","Train Developers on Web development tool","Ensure all developers who will be developing with the new tool get the appropriate training.","COMPLETED","11/29/2019","11-DEC-19 05.45.15.024205 AM","LOWCODE","11-DEC-19 05.45.15.024246 AM","LOWCODE"
+"3","10","Migrate Legacy Applications","Move the data and redevelop the applications currently running on top of legacy servers","IN-PROGRESS","","11-DEC-19 05.45.15.028548 AM","LOWCODE","11-DEC-19 05.45.15.028577 AM","LOWCODE"
